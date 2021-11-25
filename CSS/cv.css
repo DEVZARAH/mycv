@@ -1,0 +1,35 @@
+a{
+    color:royalblue;font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+i{
+
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    color:green;
+    background-color: greenyellow;
+    font-style: italic;
+}
+h2{
+    text-align: left;
+    background-color: greenyellow;
+    color:black;
+    font-style: oblique;
+}
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+h4{
+    background-color:green;
+    text-align: left;
+    font-style: oblique;
+} 
+li{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
